@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somrat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh based in Germany</h3>
 
-- 🔭 I’m currently working on a **Role Permissions based project**
+- 🔭 I’m currently working on a **Role based Permissions project**
 
 - 🌱 I’m currently learning **Unit testing and Next.js**
 
