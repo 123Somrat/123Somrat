@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somrat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh based in Germany</h3>
 
-- 🔭 I’m currently working on a **Role based Permissions project**
+- 🔭 I’m currently developing a **Trading platform fullStack project useing TypeScript , Tailwind ,  Mui , React , React Dom , Recat hooK form ,  Redux , Redux tollkit ,  Express js , Mongoose , Zod ,  MongoDb , NodeMailer , jsPdf , Socket.io , Redis , docker and docker compose **
 
-- 🌱 I’m currently learning **Unit testing and Next.js**
+- 🌱 I’m currently learning **Testing**
 
 - 💬 Ask me about **anything related to MERN stack and related technologies.**
 
