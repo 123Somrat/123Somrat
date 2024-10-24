@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently developing a **Trading platform fullStack project useing TypeScript , Tailwind ,  Mui , React , React Dom , Recat hooK form ,  Redux , Redux tollkit ,  Express js , Mongoose , Zod ,  MongoDb , NodeMailer , jsPdf , Socket.io , Redis , docker and docker compose **
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **Thread and Process and Concurrent data structure**
 
-- 💬 Ask me about **anything related to MERN stack and related technologies.**
+- 💬 Ask me about **anything related to javaScript , Microservice architectire , redis , socket.io and rabbitMq and related technologies.**
 
 - 📫 How to reach me **mdjafaruddinsomrat@gmail.com**
 
