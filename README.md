@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Somrat</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh based in Germany</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh based in Germany</h3>
 
 - 🔭 I’m currently developing a **Trading platform fullStack project useing TypeScript , Tailwind ,  Mui , React , React Dom , Recat hooK form ,  Redux , Redux tollkit ,  Express js , Mongoose , Zod ,  MongoDb , NodeMailer , jsPdf , Socket.io , Redis , docker and docker compose **
 
 - 🌱 I’m currently learning **Thread and Process and Concurrent data structure**
 
-- 💬 Ask me about **anything related to javaScript , Microservice architectire , redis , socket.io and rabbitMq and related technologies.**
+- 💬 Ask me about **anything related to javaScript , Microservice architecture , redis , socket.io and rabbitMq and related technologies.**
 
 - 📫 How to reach me **mdjafaruddinsomrat@gmail.com**
 
