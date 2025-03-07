@@ -9,7 +9,7 @@
 - ✍️  In my free time, I love traveling and cooking for me.
 - 💬  Feel free to reach out to me for some interesting discussion.
 - 💬  Ask me about **anything related to javaScript , Node js , Express js, socket.io and Docker and Docker Compose , redis and related technologies.**
-- ✉️  You can shoot me an email at muniraa.nz@gmail.com! I'll try to respond as soon as I can.
+- ✉️  You can shoot me an email at mdjafaruddinsomrat@gmail.com! I'll try to respond as soon as I can.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
